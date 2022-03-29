@@ -22,12 +22,11 @@ b. Unique App logo
 c. Secure Sign in and Sign up using Firebase.
 d. Enter credentials warning for not filling form completely for example leaving email as empty.
 e. Informs user of incorrect form filling for example if email is in incorrect format.
-f. Highly secure Sign and Signup using Firebase.
-g. Settings, Logout, and Group chat feature using drop down menu.
-h. Person to person chat with delete for me option for sender text only.
-i. Live time stamp on each text.
-j. Simple user interface.
-k. Settings feature where we can update profile pic, username, and about us using Firebase cloud storage.
+f. Settings, Logout, and Group chat feature using drop down menu.
+g. Person to person chat with delete for me option for sender text only.
+h. Live time stamp on each text.
+i. Simple user interface.
+j. Settings feature where we can update profile pic, username, and about us using Firebase cloud storage.
 
 3. Future scope
 
