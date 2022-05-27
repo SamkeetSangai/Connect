@@ -1,10 +1,6 @@
 # Connect
 Peer-to-peer chat app
 
-Video guide link for Connect App functionalities
-
-https://drive.google.com/file/d/1CRp7FYqnahoy6ugoH6ZqZl-EFjJdszfg/view?usp=drivesdk
-
 1. Step's to setup Connect app in Android Studio
 
 a. Download project files from GitHub as zip.
